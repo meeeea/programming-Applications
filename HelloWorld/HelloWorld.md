@@ -22,20 +22,18 @@ To recreate the development environment, you need the following software and/or 
 
 * Microsoft Dotnet framework
 * IDE of Choice
-*
 
 ## Useful Websites to Learn More
 
 I found these websites useful in developing this software:
 
 * [Microsoft Dotnet](https://dotnet.microsoft.com/en-us/)
-* 
-*
 
 ## Future Work
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
 * [ ] Fix rare bug where the user's fingers explode.
-* [ ]
-* [ ]
+
+
+Return: [Home](../README.md)
