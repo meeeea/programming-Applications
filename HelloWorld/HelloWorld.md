@@ -1,7 +1,5 @@
 ﻿# Hello World
 
-Add a description of your project here.
-
 A simple project that prints the statement "Hello, World!"
 
 ## Instructions for Build and Use
